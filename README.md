@@ -131,4 +131,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact jrtervens@ipn.mx
+For any questions or inquiries, please contact jrtervens@ipn.mx and hectorarangel7@gmail.com
