@@ -109,11 +109,8 @@ To run the code in this repository, we used the following:
    cd eurosat_classification
    ```
 
-2. Install the required dependencies using pip: 
+2. Install the required dependencies: 
 
-   ```shell
-   pip install -r requirements.txt
-   ```
 
 3. Prepare the EuroSat dataset:
 
